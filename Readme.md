@@ -5,7 +5,7 @@
 
 Introducing the Instantly Android app - an unparalleled solution for seamless local file sharing between Android devices. This cutting-edge application provides users with a seamless peer-to-peer connection, enabling the transfer of files between Android devices quickly and securely. What's more, this innovative feature does not require an internet connection, ensuring that your files are transferred with maximum efficiency and reliability,making it a valuable addition to the Instantly suite of products. 
  Don't miss out on the opportunity to enhance your file sharing experience – download the Instantly Android app today. Click below now to make instantly app yours.
-🔗 [Download Apk](https://github.com/TonyStark0801/Instantly/releases/download/Stable/Instantly.apk)
+🔗 [Download Apk](https://github.com/Sagarmishra-C30/Instantly-App/releases/download/v1.0/Instantly.apk)
 
 ## Introduction
 Instantly is an open-source, freeware, easy-to-use, Peer-to-Peer (P2P) file transfer application for Android devices. It allows users to share any type of file (apps, multimedia, documents, etc.) at lightning speed without any limitations on file size or format, using the latest Wi-Fi Direct technology. Instantly comes with amazing features and capabilities, listed below.
