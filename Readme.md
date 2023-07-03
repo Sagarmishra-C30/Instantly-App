@@ -1,7 +1,7 @@
 
 # Instantly-App
 
-![Instantly-App Logo](https://github.com/Sagarmishra-C30/Instantly-Web/blob/main/img/navLogo.jpg)
+![Instantly-App Logo](https://github.com/Sagarmishra-C30/Instantly-Web/blob/master/img/navLogo.jpg)
 
 Introducing the Instantly Android app - an unparalleled solution for seamless local file sharing between Android devices. This cutting-edge application provides users with a seamless peer-to-peer connection, enabling the transfer of files between Android devices quickly and securely. What's more, this innovative feature does not require an internet connection, ensuring that your files are transferred with maximum efficiency and reliability,making it a valuable addition to the Instantly suite of products. 
  Don't miss out on the opportunity to enhance your file sharing experience – download the Instantly Android app today. Click below now to make instantly app yours.
